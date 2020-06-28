@@ -1,0 +1,10 @@
+UDmega	KEYWORD1
+syokiChar	KEYWORD2
+taskGUI	KEYWORD2
+remakeHome	KEYWORD2
+remakeMotion	KEYWORD2
+homeRePosition	KEYWORD2
+homePosition	KEYWORD2
+moveServo	KEYWORD2
+udBegin	KEYWORD2
+allPostion	KEYWORD2
